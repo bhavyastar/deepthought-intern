@@ -114,9 +114,7 @@ font-size: 20px;
 
 }
 .list{
-list-style-type: none;
-/* padding-top: 10px; */
-/* overflow: hidden; */
+ list-style-type: none;
 }
 .list_1{
     float: left;
@@ -166,21 +164,112 @@ margin-top: -90px;
     margin-top: 20px;
 
 }
+.h5feedbacks{
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+.lady_name{
+    color: #696969;
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 1.25rem;
+    margin-left: 7%;
+    line-height: 1rem;
+    
+ }
+ .ladypic{
+     margin-top: 50px;
+ }
+ .lady_intro{
+    font-size: 0.9rem;
+    width:120%;
+  margin-left: 5%;
+   margin-top:5px;
+   font-weight: 400;
+   color: #696969;
+}
+.threads{
+    font-size: 0.9rem;
+    width:120%;
+  margin-left: 5%;
+   margin-top:5px;
+   font-weight: 400;
+   color: #152766;
+}
+.threads_builder{
+    color:#3683F0;
+}
+ /* #3683F0 */
+.listagain___1{
+    float:left;
+}
+.listagain___1_1{
+    float:left;
+    width:50%;
+}
+.listagain___1_1_1{
+    float:left;
+   margin-left:-14%;
+
+ 
+}
+
+.convo{
+ 
+padding-top: 35px;
+
+}
+.time{
+    width:10px;
+    padding-top: 20px;
+    color: #3683F0;
+    font-weight: 700;
+
+   
+}
+.listagain{
+    list-style-type: none;
+}
+.listagainstarts{
+    float: left;
+    margin-top: 30px;
+    margin-left: -7%;
+  
+}
+.listagainstarts_1{
+    margin-left: 25%;
+    float: left;
+    margin-top: 30px;
+}
+.listagainstarts_2{
+    margin-left: 3%;
+    float: left;
+    margin-top: 30px;
+}
+.listagainstarts_3{
+    margin-left: 3%;
+    float: left;
+    margin-top: 30px;
+}
+.listagain__1{
+    list-style-type: none;
+    margin-top:80px;
+}
 .para_text{
     font-size:8px;
     font-weight:400;
     text-align:center;
-    color: #000000;
+    color: #152766;
+
 
 }
 .para_text1{
     font-size:8px;
     font-weight:400;
     text-align:center;
-    
     color: #3683F0;
-
-
 }
 
 .main-container{
